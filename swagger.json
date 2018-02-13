@@ -1,0 +1,73 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "This is a sample REST API server for optimization inner tasks.",
+    "version": "1.0.0",
+    "title": "SfBTechBot",
+    "contact": {
+      "email": "lobkovs@yandex.ru"
+    }
+  },
+  "host": "localhost:2909",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/": {
+      "post": {
+        "summary": "Root path for handle all requests",
+        "description": "Root path for handle all requests",
+        "operationId": "Request",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "Active Directory username",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Request"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Response text"
+          },
+          "404": {
+            "description": "Command not found"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Request": {
+      "type": "object",
+      "properties": {
+        "adUser": {
+          "type": "string",
+          "description": "Active Directory username"
+        },
+        "text": {
+          "type": "string",
+          "description": "Intput text from client"
+        },
+        "session": {
+          "type": "string",
+          "description": "Current session ID"
+        }
+      }
+    }
+  },
+  "externalDocs": {
+    "description": "GitHub Repo",
+    "url": "https://github.com/lobkovs/SfBTechBot"
+  }
+}

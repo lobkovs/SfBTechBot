@@ -1,0 +1,4 @@
+09-02-2018 15:44:38 [lobkovs] Start sync
+Starting
+Done
+09-02-2018 15:44:55 [lobkovs] Finish sync

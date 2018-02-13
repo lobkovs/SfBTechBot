@@ -1,0 +1,19 @@
+{
+  "name": "SfBTechBot",
+  "version": "1.0.0",
+  "description": "Back end for bot tech Skype for Business",
+  "main": "app.js",
+  "keywords": [
+    "SkypeBot"
+  ],
+  "author": "Alexander Lobkov (lobkovs@yandex.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "node-ssh": "^5.0.0",
+    "nodemailer": "^4.4.0",
+    "request": "^2.83.0",
+    "restify": "^6.3.4",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  }
+}

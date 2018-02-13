@@ -1,0 +1,432 @@
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 10:56:15 - [warn] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] 403, Недостаточно прав для выполнения операции!
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=109, expect=100-continue, connection=Keep-Alive
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Привет, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 10:56:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 10:56:22 - [warn] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] 403, Недостаточно прав для выполнения операции!
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Help, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 10:56:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 10:56:36 - [warn] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] 403, Недостаточно прав для выполнения операции!
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Help, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 10:56:36 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ### Новый запрос ###
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] URL: /
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело запроса: adUser=lobkovs, text=Help, session=62b160b5-de5d-43c5-98ce-016a8c74d682
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Статус: 200
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело: undefined
+2018-02-13 10:57:47 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение: OK;
+2018-02-13 10:57:47 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ от сервера http://localhost:3500/:
+2018-02-13 10:57:47 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Error:
+2018-02-13 10:57:47 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] StatusCode: 202
+2018-02-13 10:57:47 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Body:
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 10:57:57 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ### Новый запрос ###
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] URL: /
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело запроса: adUser=lobkovs, text=Sync, session=62b160b5-de5d-43c5-98ce-016a8c74d682
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Статус: 200
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело: undefined
+2018-02-13 10:57:57 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение: OK;
+2018-02-13 11:00:48 - [info] [SfBTechBot/app.js] [sid:NaN] restify listening to http://0.0.0.0:2909
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue, connection=Keep-Alive
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Gggf, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 11:01:15 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 11:01:15 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] 404 Команда "gggf" не распознана!
+Введите "help" для справки.
+2018-02-13 11:01:15 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:01:15 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Error:
+2018-02-13 11:01:15 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] StatusCode: 202
+2018-02-13 11:01:15 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Body:
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Help, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 11:01:22 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 11:01:22 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:01:22 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Error:
+2018-02-13 11:01:22 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] StatusCode: 202
+2018-02-13 11:01:22 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Body:
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:30 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Sync, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 11:01:30 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:38 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Sync, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 11:01:38 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:49 - [debug] [router/index.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ### Новый запрос ###
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] ################№###
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] URL: /
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело запроса: adUser=lobkovs, text=Sync, session=dd1d45ad-abdd-464c-a264-ca3269ab47cb
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Ответ
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Метод: POST
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Статус: 200
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Тело: undefined
+2018-02-13 11:01:49 - [debug] [SfBTechBot/app.js] [sid:dd1d45ad-abdd-464c-a264-ca3269ab47cb] Сообщение: OK;
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:02:09 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:02:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:02:14 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:02:14 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:03:11 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] 404 Команда "gjg" не распознана!
+Введите "help" для справки.
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=100, expect=100-continue
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Gjg, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:03:11 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:03:11 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:03:11 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:03:11 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:03:11 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:03:22 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:03:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:03:32 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:03:32 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:05:32 - [info] [SfBTechBot/app.js] [sid:NaN] restify listening to http://0.0.0.0:2909
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue, connection=Keep-Alive
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:05:50 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:05:50 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ошибка в получении ответа 500, Ошибка в обработке события. Описание, TypeError: Cannot read property 'body' of undefined
+2018-02-13 11:06:14 - [info] [SfBTechBot/app.js] [sid:NaN] restify listening to http://0.0.0.0:2909
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:06:18 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:06:22 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:06:22 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:06:22 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:06:22 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:06:22 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:06:35 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:06:35 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:06:35 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:06:35 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:06:35 - [debug] [libs/mail.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение отправлено!
+2018-02-13 11:06:35 - [debug] [libs/mail.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1]  from=SfBTechBot@localhost, to=[lobkovs@yandex.ru]
+2018-02-13 11:06:35 - [debug] [libs/mail.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] <c3caa69f-6469-0dbe-0cb0-835c9e9bd7cf@localhost>
+2018-02-13 11:06:45 - [info] [SfBTechBot/app.js] [sid:NaN] restify listening to http://0.0.0.0:2909
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ### Новый запрос ###
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] URL: /
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело запроса: adUser=lobkovs, text=Sync, session=62b160b5-de5d-43c5-98ce-016a8c74d682
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Статус: 200
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело: undefined
+2018-02-13 11:07:35 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение: OK;
+2018-02-13 11:07:52 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:07:52 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Error:
+2018-02-13 11:07:52 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] StatusCode: 202
+2018-02-13 11:07:52 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Body:
+2018-02-13 11:07:52 - [debug] [libs/mail.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение отправлено!
+2018-02-13 11:07:52 - [debug] [libs/mail.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682]  from=SfBTechBot@localhost, to=[lobkovs@yandex.ru]
+2018-02-13 11:07:52 - [debug] [libs/mail.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] <fc956ecc-70c3-117d-9005-afa1b90a8074@localhost>
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ### Новый запрос ###
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] URL: /
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело запроса: adUser=lobkovs, text=sync, session=62b160b5-de5d-43c5-98ce-016a8c74d682
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Статус: 200
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело: undefined
+2018-02-13 11:08:07 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение: OK;
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=103, expect=100-continue
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=  Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:08:09 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:08:09 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:08:09 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:08:09 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:08:09 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ### Новый запрос ###
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] ################№###
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] URL: /
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело запроса: adUser=lobkovs, text=Sync, session=62b160b5-de5d-43c5-98ce-016a8c74d682
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Метод: POST
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Статус: 200
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Тело: undefined
+2018-02-13 11:08:14 - [debug] [SfBTechBot/app.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение: OK;
+2018-02-13 11:08:14 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:08:14 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Error:
+2018-02-13 11:08:14 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] StatusCode: 202
+2018-02-13 11:08:14 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Body:
+2018-02-13 11:08:23 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:08:23 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Error:
+2018-02-13 11:08:23 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] StatusCode: 202
+2018-02-13 11:08:23 - [debug] [router/index.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Body:
+2018-02-13 11:08:23 - [debug] [libs/mail.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] Сообщение отправлено!
+2018-02-13 11:08:23 - [debug] [libs/mail.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682]  from=SfBTechBot@localhost, to=[lobkovs@yandex.ru]
+2018-02-13 11:08:23 - [debug] [libs/mail.js] [sid:62b160b5-de5d-43c5-98ce-016a8c74d682] <ef4c5842-e952-035d-9d37-cc63fa011c55@localhost>
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ### Новый запрос ###
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue, connection=Keep-Alive
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] URL: /
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело запроса: adUser=lobkovs, text=Sync, session=99c2cdbe-e691-4f42-b5e2-93b9ed53c925
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Статус: 200
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело: undefined
+2018-02-13 11:14:01 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Сообщение: OK;
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:14:07 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:14:07 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:14:07 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:14:07 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:14:07 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ### Новый запрос ###
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] URL: /
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело запроса: adUser=lobkovs, text=Sync, session=99c2cdbe-e691-4f42-b5e2-93b9ed53c925
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Статус: 200
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело: undefined
+2018-02-13 11:14:13 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Сообщение: OK;
+2018-02-13 11:14:13 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:14:13 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Error:
+2018-02-13 11:14:13 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] StatusCode: 202
+2018-02-13 11:14:13 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Body:
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ### Новый запрос ###
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] ################№###
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] URL: /
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело запроса: adUser=lobkovs, text=Sync, session=bc748850-f3c0-44b4-ae81-140dfcc3b0f1
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Метод: POST
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Статус: 200
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Тело: undefined
+2018-02-13 11:14:16 - [debug] [SfBTechBot/app.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение: OK;
+2018-02-13 11:14:16 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:14:16 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:14:16 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:14:16 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:14:18 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:14:18 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Error:
+2018-02-13 11:14:18 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] StatusCode: 202
+2018-02-13 11:14:18 - [debug] [router/index.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Body:
+2018-02-13 11:14:18 - [debug] [libs/mail.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] Сообщение отправлено!
+2018-02-13 11:14:18 - [debug] [libs/mail.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1]  from=SfBTechBot@localhost, to=[lobkovs@yandex.ru]
+2018-02-13 11:14:18 - [debug] [libs/mail.js] [sid:bc748850-f3c0-44b4-ae81-140dfcc3b0f1] <afabfdc1-c9cf-ee9f-a315-a0f90154137b@localhost>
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ### Новый запрос ###
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] URL: /
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело запроса: adUser=lobkovs, text=Help, session=99c2cdbe-e691-4f42-b5e2-93b9ed53c925
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Статус: 200
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело: undefined
+2018-02-13 11:14:43 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Сообщение: OK;
+2018-02-13 11:14:43 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:14:43 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Error:
+2018-02-13 11:14:43 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] StatusCode: 202
+2018-02-13 11:14:43 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Body:
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ### Новый запрос ###
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] ################№###
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Заголовки: user-agent=SfBtoREST.SfBTechBot/0.0.0.0, content-type=application/json, host=localhost:2909, content-length=101, expect=100-continue
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] URL: /
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело запроса: adUser=lobkovs, text=Stat, session=99c2cdbe-e691-4f42-b5e2-93b9ed53c925
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Метод: POST
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Статус: 200
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Тело: undefined
+2018-02-13 11:14:48 - [debug] [SfBTechBot/app.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Сообщение: OK;
+2018-02-13 11:14:48 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Ответ от сервера http://localhost:3500/:
+2018-02-13 11:14:48 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Error:
+2018-02-13 11:14:48 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] StatusCode: 202
+2018-02-13 11:14:48 - [debug] [router/index.js] [sid:99c2cdbe-e691-4f42-b5e2-93b9ed53c925] Body:
